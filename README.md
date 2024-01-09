@@ -1,20 +1,20 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="center">My name is Ayşenur and I'm a curious developer with expertise in <br>Python programming, AI algorithms, data analysis, and NLP. My experience also covers API development, web scraping, database management, and UI design. I love tackling challenging projects and continually expanding my knowledge, making me a dynamic problem solver in the world of development.I’m happy, friendly, and love a good challenge.</p>
+<p align="left">My name is Ayşenur and I'm a curious developer with expertise in <br>Python programming, AI algorithms, data analysis, and NLP. My experience also covers API development, web scraping, database management, and UI design. I love tackling challenging projects and continually expanding my knowledge, making me a dynamic problem solver in the world of development.I’m happy, friendly, and love a good challenge.</p>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since 3 years <br>📚 I'm currently learning Ai algorithms and computer vision<br>🎯 Goals: be more creative and learn new things</p>
+<p align="left">✨ Creating bugs since 3 years <br>📚 I'm currently learning Ai algorithms and computer vision<br>🎯 Goals: be more creative and learn new things</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
