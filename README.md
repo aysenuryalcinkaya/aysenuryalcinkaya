@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Ayşenur and I'm a curious developer with expertise in <br>Python programming, AI algorithms, data analysis, and NLP. My experience also covers API development, web scraping, database management, and UI design. I love tackling challenging projects and continually expanding my knowledge, making me a dynamic problem solver in the world of development.I’m happy, friendly, and love a good challenge.</p>
-
+<p align="left">My name is Ayşenur and I'm a curious developer with expertise in <br>Python programming, AI algorithms, data analysis, and NLP. My experience also covers API development, web scraping, database management, and UI design. I love tackling challenging projects and continually expanding my knowledge, making me a dynamic problem solver in the world of development.I’m happy and love a good challenge.</p>
+<p align="left">Programming is the art of algorithm design and the craft of debugging errant code. -  Ellen Ullman </p>
 ###
 
 <h2 align="left">About me</h2>
